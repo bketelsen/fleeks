@@ -1,0 +1,32 @@
+aliases:
+    cdfleek: cd ~/.config/home-manager
+bling: high
+ejected: false
+name: My Fleek Configuration
+packages:
+    - helix
+    - go
+    - gcc
+paths:
+    - $HOME/bin
+    - $HOME/.local/bin
+programs:
+    - dircolors
+repo: git@github.com/my/homeconfig
+shell: bash
+systems:
+    - arch: x86_64
+      git:
+        email: bketelsen@gmail.com
+        name: Brian Ketelsen
+      hostname: ghanima
+      os: linux
+      username: bjk
+    - arch: aarch64
+      git:
+        email: bketelsen@gmail.com
+        name: Brian Ketelsen
+      hostname: chapterhouse
+      os: darwin
+      username: bjk
+unfree: true
