@@ -1,8 +1,8 @@
 aliases:
+    bluefin: cd ~/projects/ublue/bluefin
     cdfleek: cd ~/projects/ublue/fleek
     fleeks: cd ~/.config/home-manager
     ublue: cd ~/projects/ublue
-    bluefin: cd ~/projects/ublue/bluefin
 bling: high
 ejected: false
 name: My Fleek Configuration
@@ -11,6 +11,7 @@ packages:
     - go
     - gcc
     - neofetch
+    - emacs
 paths:
     - $HOME/bin
     - $HOME/.local/bin

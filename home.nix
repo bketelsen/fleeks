@@ -25,6 +25,8 @@
     pkgs.gcc
     # base packages
     pkgs.neofetch
+    # base packages
+    pkgs.emacs
     
     pkgs.htop
     pkgs.git
