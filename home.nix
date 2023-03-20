@@ -22,6 +22,9 @@
     pkgs.gcc
     
     pkgs.htop
+    pkgs.git
+    pkgs.github-cli
+    pkgs.glab
     
     
     
@@ -37,6 +40,7 @@
     pkgs.btop
     pkgs.cheat
     
+    # extra until this works, remove later :TODO:
     pkgs.go
     pkgs.gcc
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
