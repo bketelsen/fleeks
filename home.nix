@@ -23,6 +23,8 @@
     pkgs.go
     # base packages
     pkgs.gcc
+    # base packages
+    pkgs.neofetch
     
     pkgs.htop
     pkgs.git
