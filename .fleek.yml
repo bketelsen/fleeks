@@ -16,7 +16,7 @@ paths:
     - $HOME/.local/bin
 programs:
     - dircolors
-repo: git@github.com/my/homeconfig
+repo: git@github.com:bketelsen/fleeks
 shell: bash
 systems:
     - arch: x86_64
