@@ -3,6 +3,8 @@
     
     cdfleek = "cd ~/projects/ublue/fleek";
     
+    fleeks = "cd ~/.config/home-manager";
+    
   };
 
 }
