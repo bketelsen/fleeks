@@ -20,6 +20,7 @@
     pkgs.helix
     pkgs.go
     pkgs.gcc
+    pkgs.rustup
     
     pkgs.htop
     
