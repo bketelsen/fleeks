@@ -1,5 +1,6 @@
 aliases:
-    cdfleek: cd ~/.config/home-manager
+    cdfleek: cd ~/projects/ublue/fleek
+    
 bling: high
 ejected: false
 name: My Fleek Configuration

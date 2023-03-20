@@ -1,7 +1,7 @@
 { pkgs, misc, ... }: {
    home.shellAliases = {
     
-    cdfleek = "cd ~/.config/home-manager";
+    cdfleek = "cd ~/projects/ublue/fleek";
     
   };
 
