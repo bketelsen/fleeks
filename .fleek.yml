@@ -8,7 +8,6 @@ packages:
     - helix
     - go
     - gcc
-    - rustup
 paths:
     - $HOME/bin
     - $HOME/.local/bin
