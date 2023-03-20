@@ -37,6 +37,8 @@
     pkgs.btop
     pkgs.cheat
     
+    pkgs.go
+    pkgs.gcc
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
   ];
   fonts.fontconfig.enable = true; 
