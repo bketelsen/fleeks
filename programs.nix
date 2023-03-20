@@ -10,7 +10,6 @@
     
     # default bling
     
-    programs.gh.enable = true;
     programs.direnv.enable = true;
     # high bling
     

@@ -17,8 +17,11 @@
   # packages are just installed (no configuration applied)
   # programs are installed and configuration applied to dotfiles
   home.packages = [
+    # base packages
     pkgs.helix
+    # base packages
     pkgs.go
+    # base packages
     pkgs.gcc
     
     pkgs.htop
@@ -27,10 +30,12 @@
     pkgs.glab
     
     
+    # default packages
     
     pkgs.fzf
     pkgs.ripgrep
     pkgs.vscode
+    # high packages
     
     pkgs.lazygit
     pkgs.jq
