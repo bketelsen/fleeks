@@ -27,8 +27,6 @@
     pkgs.neofetch
     # base packages
     pkgs.nodejs
-    # base packages
-    pkgs.wails
     
     pkgs.htop
     pkgs.git
