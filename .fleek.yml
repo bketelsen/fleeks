@@ -40,4 +40,11 @@ systems:
       hostname: fedora
       os: linux
       username: bjk
+    - arch: aarch64
+      git:
+        email: Brian Ketelsen
+        name: bketelsen@gmail.com
+      hostname: f84d89911e5d.ant.amazon.com
+      os: darwin
+      username: brianjk
 unfree: true
