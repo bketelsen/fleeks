@@ -31,6 +31,8 @@
     pkgs.webkitgtk
     # base packages
     pkgs.nodejs
+    # base packages
+    pkgs.gtk3
     
     pkgs.htop
     pkgs.git
