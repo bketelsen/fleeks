@@ -7,7 +7,6 @@ bling: high
 ejected: false
 name: My Fleek Configuration
 packages:
-    - helix
     - go
     - gcc
     - neofetch

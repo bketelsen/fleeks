@@ -18,8 +18,6 @@
   # programs are installed and configuration applied to dotfiles
   home.packages = [
     # base packages
-    pkgs.helix
-    # base packages
     pkgs.go
     # base packages
     pkgs.gcc
