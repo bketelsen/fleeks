@@ -25,6 +25,12 @@
     pkgs.gcc
     # base packages
     pkgs.neofetch
+    # base packages
+    pkgs.gtk3
+    # base packages
+    pkgs.webkitgtk
+    # base packages
+    pkgs.nodejs
     
     pkgs.htop
     pkgs.git
