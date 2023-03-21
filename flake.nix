@@ -27,6 +27,7 @@
           ./programs.nix
           # Host Specific configs
           ./ghanima/ghanima.nix
+          ./ghanima/user.nix
         ];
       };
       
@@ -42,6 +43,7 @@
           ./programs.nix
           # Host Specific configs
           ./chapterhouse/chapterhouse.nix
+          ./chapterhouse/user.nix
         ];
       };
       
@@ -57,6 +59,7 @@
           ./programs.nix
           # Host Specific configs
           ./fedora/fedora.nix
+          ./fedora/user.nix
         ];
       };
       
