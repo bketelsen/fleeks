@@ -33,6 +33,8 @@
     pkgs.nodejs
     # base packages
     pkgs.gtk3
+    # base packages
+    pkgs.wails
     
     pkgs.htop
     pkgs.git

@@ -15,6 +15,7 @@ packages:
     - webkitgtk
     - nodejs
     - gtk3
+    - wails
 paths:
     - $HOME/bin
     - $HOME/.local/bin
