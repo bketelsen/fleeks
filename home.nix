@@ -26,13 +26,7 @@
     # base packages
     pkgs.neofetch
     # base packages
-    pkgs.gtk3
-    # base packages
-    pkgs.webkitgtk
-    # base packages
     pkgs.nodejs
-    # base packages
-    pkgs.gtk3
     # base packages
     pkgs.wails
     

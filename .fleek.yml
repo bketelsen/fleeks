@@ -11,10 +11,7 @@ packages:
     - go
     - gcc
     - neofetch
-    - gtk3
-    - webkitgtk
     - nodejs
-    - gtk3
     - wails
 paths:
     - $HOME/bin
