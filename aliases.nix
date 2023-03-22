@@ -7,6 +7,8 @@
     
     fleeks = "cd ~/.config/home-manager";
     
+    projects = "cd ~/projects";
+    
     ublue = "cd ~/projects/ublue";
     
   };
