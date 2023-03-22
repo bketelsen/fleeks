@@ -12,6 +12,7 @@ packages:
     - neofetch
     - nodejs
     - bottom
+    - chezmoi
 paths:
     - $HOME/bin
     - $HOME/.local/bin
