@@ -12,7 +12,6 @@ packages:
     - neofetch
     - nodejs
     - bottom
-    - ssh
 paths:
     - $HOME/bin
     - $HOME/.local/bin

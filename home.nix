@@ -27,8 +27,6 @@
     pkgs.nodejs
     # base packages
     pkgs.bottom
-    # base packages
-    pkgs.ssh
     
     pkgs.htop
     pkgs.git
