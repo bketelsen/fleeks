@@ -29,6 +29,7 @@
     pkgs.bottom
     
     pkgs.htop
+    pkgs.git
     pkgs.github-cli
     pkgs.glab
     
