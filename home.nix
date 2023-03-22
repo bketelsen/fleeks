@@ -18,13 +18,15 @@
   # programs are installed and configuration applied to dotfiles
   home.packages = [
     # base packages
-    pkgs.helix
-    # base packages
     pkgs.go
     # base packages
     pkgs.gcc
     # base packages
     pkgs.neofetch
+    # base packages
+    pkgs.nodejs
+    # base packages
+    pkgs.bottom
     
     pkgs.htop
     pkgs.git
