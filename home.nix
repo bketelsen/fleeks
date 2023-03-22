@@ -27,6 +27,8 @@
     pkgs.nodejs
     # base packages
     pkgs.bottom
+    # base packages
+    pkgs.broot
     
     pkgs.htop
     pkgs.git

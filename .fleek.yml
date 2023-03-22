@@ -12,6 +12,7 @@ packages:
     - neofetch
     - nodejs
     - bottom
+    - broot
 paths:
     - $HOME/bin
     - $HOME/.local/bin
