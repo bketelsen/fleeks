@@ -25,6 +25,10 @@
     pkgs.neofetch
     # base packages
     pkgs.nodejs
+    # base packages
+    pkgs.bottom
+    # base packages
+    pkgs.chezmoi
     
     pkgs.htop
     pkgs.git
