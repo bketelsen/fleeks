@@ -6,8 +6,8 @@ aliases:
     ublue: cd ~/projects/ublue
 bling: high
 ejected: false
-flakedir: /var/home/bjk/.config/home-manager
 name: Brians Fleek Configuration
+flakedir: .config/home-manager
 packages:
     - go
     - gcc
