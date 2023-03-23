@@ -1,5 +1,5 @@
 {
-  description = "My Fleek Configuration";
+  description = "Brians Fleek Configuration";
 
   inputs = {
     # Nixpkgs
