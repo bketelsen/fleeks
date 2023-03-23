@@ -7,7 +7,7 @@ aliases:
 bling: high
 ejected: false
 flakedir: /var/home/bjk/.config/home-manager
-name: My Fleek Configuration
+name: Brians Fleek Configuration
 packages:
     - go
     - gcc
