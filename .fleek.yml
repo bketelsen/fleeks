@@ -14,7 +14,6 @@ packages:
     - neofetch
     - nodejs
     - bottom
-    - emacs
 paths:
     - $HOME/bin
     - $HOME/.local/bin
