@@ -9,4 +9,7 @@ Feel free to fork this and use it for your own fleek starter, although that's re
 It'd be simpler to copy the contents of the `.fleek.yml` file in this repository, DELETE all the
 systems under the `systems: ` YAML key, and run `fleek apply`.
 
+## Usage
 
+Make changes to `.fleek.yml` and run `fleek apply`. Add the `--sync` flag to push your changes
+to your remote.
