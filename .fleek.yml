@@ -6,14 +6,15 @@ aliases:
     ublue: cd ~/projects/ublue
 bling: high
 ejected: false
-name: Brians Fleek Configuration
 flakedir: .config/home-manager
+name: Brians Fleek Configuration
 packages:
     - go
     - gcc
     - neofetch
     - nodejs
     - bottom
+    - yarn
 paths:
     - $HOME/bin
     - $HOME/.local/bin
