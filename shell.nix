@@ -7,9 +7,8 @@
     "--header"
   ];
   programs.bat.config = {
-
   theme = "TwoDark";
-}
+};
   
 
     # zsh
