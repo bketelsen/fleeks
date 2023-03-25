@@ -2,6 +2,14 @@
 
   
   programs.exa.enableAliases = true;
+  programs.exa.extraOptions = [
+    "--group-directories-first"
+    "--header"
+  ];
+  programs.bat.config = {
+
+  theme = "TwoDark";
+}
   
 
     # zsh
