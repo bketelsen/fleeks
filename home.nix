@@ -31,12 +31,10 @@
     pkgs.glab
     
     # default packages
-    
     pkgs.fzf
     pkgs.ripgrep
     pkgs.vscode
     # high packages
-    
     pkgs.lazygit
     pkgs.jq
     pkgs.yq
