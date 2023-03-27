@@ -17,36 +17,23 @@
   # packages are just installed (no configuration applied)
   # programs are installed and configuration applied to dotfiles
   home.packages = [
-    # base packages
+    # user selected packages
     pkgs.go
-    # base packages
     pkgs.gcc
-    # base packages
     pkgs.neofetch
-    # base packages
     pkgs.nodejs
-    # base packages
     pkgs.bottom
-    # base packages
     pkgs.yarn
-    # base packages
     pkgs.rustup
-    # base packages
     pkgs.vhs
-    
     pkgs.htop
     pkgs.git
     pkgs.github-cli
     pkgs.glab
     
-    
-    # default packages
-    
     pkgs.fzf
     pkgs.ripgrep
     pkgs.vscode
-    # high packages
-    
     pkgs.lazygit
     pkgs.jq
     pkgs.yq
@@ -54,7 +41,6 @@
     pkgs.neofetch
     pkgs.btop
     pkgs.cheat
-    
     # extra until this works, remove later :TODO:
     pkgs.go
     pkgs.gcc
