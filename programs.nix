@@ -4,10 +4,15 @@
   # add your personalized program configuration in ./user.nix
     programs.dircolors.enable = true;
     # low bling
+    
     programs.starship.enable = true;
+    
+    
     # default bling
+    
     programs.direnv.enable = true;
     # high bling
+    
     programs.exa.enable = true;
     programs.bat.enable = true;
     programs.atuin.enable = true;

@@ -15,6 +15,7 @@ packages:
     - nodejs
     - bottom
     - yarn
+    - rustup
 paths:
     - $HOME/bin
     - $HOME/.local/bin
