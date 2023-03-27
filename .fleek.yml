@@ -15,7 +15,6 @@ packages:
     - nodejs
     - bottom
     - yarn
-    - agenix
 paths:
     - $HOME/bin
     - $HOME/.local/bin

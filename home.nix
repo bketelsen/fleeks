@@ -29,8 +29,6 @@
     pkgs.bottom
     # base packages
     pkgs.yarn
-    # base packages
-    pkgs.agenix
     
     pkgs.htop
     pkgs.git
