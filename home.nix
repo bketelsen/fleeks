@@ -24,13 +24,10 @@
     pkgs.nodejs
     pkgs.bottom
     pkgs.yarn
-    # low packages
+    # default packages
     pkgs.htop
-    # low packages
     pkgs.git
-    # low packages
     pkgs.github-cli
-    # low packages
     pkgs.glab
     
     # default packages
