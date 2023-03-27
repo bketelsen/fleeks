@@ -17,19 +17,21 @@
   # packages are just installed (no configuration applied)
   # programs are installed and configuration applied to dotfiles
   home.packages = [
-      # user selected packages
+    # user selected packages
     pkgs.go
     pkgs.gcc
     pkgs.neofetch
     pkgs.nodejs
     pkgs.bottom
     pkgs.yarn
-    
+    # low packages
     pkgs.htop
+    # low packages
     pkgs.git
+    # low packages
     pkgs.github-cli
+    # low packages
     pkgs.glab
-    
     
     # default packages
     
@@ -45,7 +47,6 @@
     pkgs.neofetch
     pkgs.btop
     pkgs.cheat
-    
     # extra until this works, remove later :TODO:
     pkgs.go
     pkgs.gcc
