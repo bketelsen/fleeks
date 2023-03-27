@@ -24,13 +24,12 @@
     pkgs.nodejs
     pkgs.bottom
     pkgs.yarn
-    # default packages
+    # low packages
     pkgs.htop
     pkgs.git
     pkgs.github-cli
     pkgs.glab
     
-    # default packages
     pkgs.fzf
     pkgs.ripgrep
     pkgs.vscode
