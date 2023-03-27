@@ -11,6 +11,10 @@
     
     ublue = "cd ~/projects/ublue";
     
+    
+    cat = "bat";
+    catp = "bat -p";
+    cd = "z";
+    
   };
-
 }
