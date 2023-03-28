@@ -22,7 +22,6 @@ packages:
     - emacs
     - emacs
     - emacs
-    - emacs
 paths:
     - $HOME/bin
     - $HOME/.local/bin
