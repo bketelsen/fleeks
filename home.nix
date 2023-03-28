@@ -26,7 +26,6 @@
     pkgs.yarn
     pkgs.rustup
     pkgs.vhs
-    pkgs.emacs
     pkgs.htop
     pkgs.git
     pkgs.github-cli
