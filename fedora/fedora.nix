@@ -1,6 +1,6 @@
 { pkgs, misc, ... }: {
-    home.username = "bjk";
-    home.homeDirectory = "/home/bjk";
+    home.username = "briank";
+    home.homeDirectory = "/home/briank";
     programs.git.enable = true;
     programs.git.userEmail = "Brian Ketelsen";
     programs.git.userName = "bketelsen@gmail.com";

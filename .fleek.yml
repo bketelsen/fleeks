@@ -59,4 +59,11 @@ systems:
       hostname: ubluenix
       os: linux
       username: bjk
+    - arch: x86_64
+      git:
+        email: Brian Ketelsen
+        name: bketelsen@gmail.com
+      hostname: fedora
+      os: linux
+      username: briank
 unfree: true
