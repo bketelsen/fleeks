@@ -20,7 +20,6 @@
     # user selected packages
     pkgs.go
     pkgs.gcc
-    pkgs.neofetch
     pkgs.nodejs
     pkgs.bottom
     pkgs.yarn
