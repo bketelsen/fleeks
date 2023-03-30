@@ -15,8 +15,8 @@
   programs.exa.enableAliases = true;
    
   programs.exa.extraOptions = [
- &#34;--group-directories-first&#34;
- &#34;--header&#34;
+   &#34;--group-directories-first&#34;
+   &#34;--header&#34;
 ];
    
 # starship
