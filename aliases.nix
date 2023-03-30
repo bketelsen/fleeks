@@ -12,9 +12,24 @@
     ublue = "cd ~/projects/ublue";
     
     
-    cat = "bat";
-    catp = "bat -p";
-    cd = "z";
+    # atuin
+    
+    
+    # bat
+    
+    0 = {catp bat -p bat --plain for unformatted cat};
+    
+    1 = {cat bat replace cat with bat};
+    
+    
+    # direnv
+    
+    
+    # exa
+    
+    
+    # starship
+    
     
   };
 }

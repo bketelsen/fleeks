@@ -18,27 +18,20 @@
   # programs are installed and configuration applied to dotfiles
   home.packages = [
     # user selected packages
-    pkgs.go
-    pkgs.gcc
-    pkgs.nodejs
-    pkgs.yarn
-    pkgs.rustup
-    pkgs.vhs
-    pkgs.htop
+    pkgs.btop
+    pkgs.cheat
+    pkgs.fzf
     pkgs.git
     pkgs.github-cli
     pkgs.glab
-    
-    pkgs.fzf
+    pkgs.htop
+    pkgs.jq
+    pkgs.lazygit
+    pkgs.neofetch
+    pkgs.neovim
     pkgs.ripgrep
     pkgs.vscode
-    pkgs.lazygit
-    pkgs.jq
     pkgs.yq
-    pkgs.neovim
-    pkgs.neofetch
-    pkgs.btop
-    pkgs.cheat
     # extra until this works, remove later :TODO:
     pkgs.go
     pkgs.gcc
