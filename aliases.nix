@@ -17,9 +17,11 @@
     
     # bat
     
-    0 = {catp bat -p bat --plain for unformatted cat};
+    # bat --plain for unformatted cat
+    catp = bat -p;
     
-    1 = {cat bat replace cat with bat};
+    # replace cat with bat
+    cat = bat;
     
     
     # direnv
