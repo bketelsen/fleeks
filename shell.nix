@@ -5,8 +5,8 @@
 # bat
  
   programs.bat.config = {
-theme = \u0022TwoDark\u0022;
-}
+theme = &#34;TwoDark&#34;;
+};
 ;
    
 # direnv
@@ -16,8 +16,8 @@ theme = \u0022TwoDark\u0022;
   programs.exa.enableAliases = true;
    
   programs.exa.extraOptions = [
-\u0022--group-directories-first\u0022
-\u0022--header\u0022
+&#34;--group-directories-first&#34;
+&#34;--header&#34;
 ];;
    
 # starship
