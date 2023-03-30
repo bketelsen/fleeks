@@ -18,10 +18,10 @@
     # bat
     
     # bat --plain for unformatted cat
-    catp = bat -p;
+    catp = "bat -p";
     
     # replace cat with bat
-    cat = bat;
+    cat = "bat";
     
     
     # direnv
