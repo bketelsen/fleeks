@@ -18,6 +18,13 @@
   # programs are installed and configuration applied to dotfiles
   home.packages = [
     # user selected packages
+    pkgs.go
+    pkgs.gcc
+    pkgs.nodejs
+    pkgs.yarn
+    pkgs.rustup
+    pkgs.vhs
+    # Fleek Bling
     pkgs.btop
     pkgs.cheat
     pkgs.fzf
