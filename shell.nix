@@ -4,9 +4,9 @@
  
 # bat
  
-  programs.bat.config = &#39;{
+  programs.bat.config = {
 theme = &#34;TwoDark&#34;;
-}&#39;
+}
 ;
    
 # direnv
