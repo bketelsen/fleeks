@@ -4,8 +4,7 @@
  
 # bat
  
-  programs.bat.config = { theme = &#34;TwoDark&#34;; }
-;
+  programs.bat.config = { theme = &#34;TwoDark&#34;; };
    
 # direnv
  
