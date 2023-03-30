@@ -12,7 +12,6 @@ packages:
     - go
     - gcc
     - nodejs
-    - bottom
     - yarn
     - rustup
     - vhs

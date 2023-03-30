@@ -21,7 +21,6 @@
     pkgs.go
     pkgs.gcc
     pkgs.nodejs
-    pkgs.bottom
     pkgs.yarn
     pkgs.rustup
     pkgs.vhs
