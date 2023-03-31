@@ -19,6 +19,7 @@ packages:
 paths:
     - $HOME/bin
     - $HOME/.local/bin
+    - $HOME/go/bin
 programs:
     - dircolors
 repo: git@github.com:bketelsen/fleeks
