@@ -24,6 +24,7 @@
     pkgs.yarn
     pkgs.rustup
     pkgs.vhs
+    pkgs.emacs
     # Fleek Bling
     pkgs.btop
     pkgs.cheat

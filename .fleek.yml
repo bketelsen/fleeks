@@ -15,6 +15,7 @@ packages:
     - yarn
     - rustup
     - vhs
+    - emacs
 paths:
     - $HOME/bin
     - $HOME/.local/bin
