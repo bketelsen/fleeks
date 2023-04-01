@@ -25,6 +25,7 @@
     pkgs.rustup
     pkgs.vhs
     pkgs.emacs
+    pkgs.dive
     # Fleek Bling
     pkgs.btop
     pkgs.cheat
