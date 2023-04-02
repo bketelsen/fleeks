@@ -7,6 +7,8 @@
     
     fleeks = "cd ~/.config/home-manager";
     
+    gcb = "git checkout -b";
+    
     gitmain = "git checkout main && git pull";
     
     projects = "cd ~/projects";

@@ -5,6 +5,7 @@ aliases:
     projects: cd ~/projects
     ublue: cd ~/projects/ublue
     gitmain: git checkout main && git pull
+    gcb: git checkout -b
 bling: high
 ejected: false
 flakedir: .config/home-manager
