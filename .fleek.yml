@@ -4,6 +4,7 @@ aliases:
     fleeks: cd ~/.config/home-manager
     projects: cd ~/projects
     ublue: cd ~/projects/ublue
+    gitmain: git checkout main && git pull
 bling: high
 ejected: false
 flakedir: .config/home-manager

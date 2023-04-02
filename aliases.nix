@@ -7,6 +7,8 @@
     
     fleeks = "cd ~/.config/home-manager";
     
+    gitmain = "git checkout main && git pull";
+    
     projects = "cd ~/projects";
     
     ublue = "cd ~/projects/ublue";
@@ -18,7 +20,7 @@
     # bat
     
     # bat --plain for unformatted cat
-    catp = "bat -p";
+    catp = "bat -P";
     
     # replace cat with bat
     cat = "bat";
