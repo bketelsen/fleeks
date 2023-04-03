@@ -22,7 +22,7 @@
     # bat
     
     # bat --plain for unformatted cat
-    catp = "bat -p";
+    catp = "bat -P";
     
     # replace cat with bat
     cat = "bat";
