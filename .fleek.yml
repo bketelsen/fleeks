@@ -28,13 +28,6 @@ programs:
 repo: git@github.com:bketelsen/fleeks
 shell: zsh
 systems:
-    - arch: x86_64
-      git:
-        email: bketelsen@gmail.com
-        name: Brian Ketelsen
-      hostname: ghanima
-      os: linux
-      username: bjk
     - arch: aarch64
       git:
         email: bketelsen@gmail.com
