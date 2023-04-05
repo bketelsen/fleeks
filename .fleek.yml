@@ -7,7 +7,7 @@ aliases:
     projects: cd ~/projects
     ublue: cd ~/projects/ublue
 bling: high
-branch: ""
+branch: main
 ejected: false
 flakedir: .config/home-manager
 name: Brians Fleek Configuration
