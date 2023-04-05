@@ -15,22 +15,6 @@
     # Available through 'home-manager --flake .#your-username@your-hostname'
     homeConfigurations = {
     
-      "bjk@ghanima" = home-manager.lib.homeManagerConfiguration {
-        pkgs = nixpkgs.legacyPackages.x86_64-linux; # Home-manager requires 'pkgs' instance
-        extraSpecialArgs = { inherit inputs; }; # Pass flake inputs to our config
-        modules = [ 
-          ./home.nix 
-          ./path.nix
-          ./shell.nix
-          ./user.nix
-          ./aliases.nix
-          ./programs.nix
-          # Host Specific configs
-          ./ghanima/ghanima.nix
-          ./ghanima/user.nix
-        ];
-      };
-      
       "bjk@chapterhouse" = home-manager.lib.homeManagerConfiguration {
         pkgs = nixpkgs.legacyPackages.aarch64-darwin; # Home-manager requires 'pkgs' instance
         extraSpecialArgs = { inherit inputs; }; # Pass flake inputs to our config
@@ -108,6 +92,22 @@
           # Host Specific configs
           ./fedora/fedora.nix
           ./fedora/user.nix
+        ];
+      };
+      
+      "bjk@ghanima" = home-manager.lib.homeManagerConfiguration {
+        pkgs = nixpkgs.legacyPackages.x86_64-linux; # Home-manager requires 'pkgs' instance
+        extraSpecialArgs = { inherit inputs; }; # Pass flake inputs to our config
+        modules = [ 
+          ./home.nix 
+          ./path.nix
+          ./shell.nix
+          ./user.nix
+          ./aliases.nix
+          ./programs.nix
+          # Host Specific configs
+          ./ghanima/ghanima.nix
+          ./ghanima/user.nix
         ];
       };
       
