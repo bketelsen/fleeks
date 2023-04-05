@@ -19,7 +19,6 @@ packages:
     - rustup
     - vhs
     - dive
-    - emacs
 paths:
     - $HOME/bin
     - $HOME/.local/bin
