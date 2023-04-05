@@ -2,11 +2,12 @@ aliases:
     bluefin: cd ~/projects/ublue/bluefin
     cdfleek: cd ~/projects/ublue/fleek
     fleeks: cd ~/.config/home-manager
+    gcb: git checkout -b
+    gitmain: git checkout main && git pull
     projects: cd ~/projects
     ublue: cd ~/projects/ublue
-    gitmain: git checkout main && git pull
-    gcb: git checkout -b
 bling: high
+branch: ""
 ejected: false
 flakedir: .config/home-manager
 name: Brians Fleek Configuration
@@ -32,6 +33,7 @@ systems:
       git:
         email: bketelsen@gmail.com
         name: Brian Ketelsen
+        privatekey: ""
       hostname: chapterhouse
       os: darwin
       username: bjk
@@ -39,6 +41,7 @@ systems:
       git:
         email: Brian Ketelsen
         name: bketelsen@gmail.com
+        privatekey: ""
       hostname: fedora
       os: linux
       username: bjk
@@ -46,6 +49,7 @@ systems:
       git:
         email: Brian Ketelsen
         name: bketelsen@gmail.com
+        privatekey: ""
       hostname: f84d89911e5d.ant.amazon.com
       os: darwin
       username: brianjk
@@ -53,6 +57,7 @@ systems:
       git:
         email: Brian Ketelsen
         name: bketelsen@gmail.com
+        privatekey: ""
       hostname: ubluenix
       os: linux
       username: bjk
@@ -60,7 +65,16 @@ systems:
       git:
         email: Brian Ketelsen
         name: bketelsen@gmail.com
+        privatekey: ""
       hostname: fedora
       os: linux
       username: briank
+    - arch: x86_64
+      git:
+        email: Brian Ketelsen
+        name: bketelsen@gmail.com
+        privatekey: .ssh/id_rsa
+      hostname: ghanima
+      os: linux
+      username: bjk
 unfree: true
