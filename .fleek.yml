@@ -18,7 +18,6 @@ packages:
     - yarn
     - rustup
     - vhs
-    - emacs
     - dive
 paths:
     - $HOME/bin
